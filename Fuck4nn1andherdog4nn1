@@ -240,13 +240,13 @@ TextButton_7.BorderSizePixel = 3
 TextButton_7.Position = UDim2.new(0.263707578, 0, 0.434599161, 0)
 TextButton_7.Size = UDim2.new(0, 68, 0, 30)
 TextButton_7.Font = Enum.Font.PatrickHand
-TextButton_7.Text = "Keyboard"
+TextButton_7.Text = "Minigun"
 TextButton_7.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_7.TextScaled = true
 TextButton_7.TextSize = 14.000
 TextButton_7.TextWrapped = true
 TextButton_7.MouseButton1Down:connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/G4nqZdBs", true))()
 end)
 TextButton_8.Parent = Main
 TextButton_8.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
