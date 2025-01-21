@@ -181,13 +181,13 @@ TextButton_4.BorderSizePixel = 3
 TextButton_4.Position = UDim2.new(0.736292422, 0, 0.23206751, 0)
 TextButton_4.Size = UDim2.new(0, 68, 0, 30)
 TextButton_4.Font = Enum.Font.PatrickHand
-TextButton_4.Text = "Ghost Hub"
+TextButton_4.Text = "Get Crucified"
 TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_4.TextScaled = true
 TextButton_4.TextSize = 14.000
 TextButton_4.TextWrapped = true
 TextButton_4.MouseButton1Down:connect(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+loadstring(game:HttpGet("https://pastebin.com/raw/Hp8D0UyW",true))()
 end)
 TextButton_5.Parent = Main
 TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
