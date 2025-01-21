@@ -53,7 +53,7 @@ TextLabel.BorderSizePixel = 4
 TextLabel.Position = UDim2.new(-0.0652741492, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 429, 0, 41)
 TextLabel.Font = Enum.Font.PatrickHand
-TextLabel.Text = "4nn1s place ultimate troll GUI"
+TextLabel.Text = "4nn1 gui v2"
 TextLabel.TextColor3 = Color3.fromRGB(225, 0, 3)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
@@ -166,13 +166,14 @@ TextButton_3.BorderSizePixel = 3
 TextButton_3.Position = UDim2.new(0.498694509, 0, 0.23206751, 0)
 TextButton_3.Size = UDim2.new(0, 68, 0, 30)
 TextButton_3.Font = Enum.Font.PatrickHand
-TextButton_3.Text = "Iv Admin"
+TextButton_3.Text = "Star Glitcher v1"
 TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_3.TextScaled = true
 TextButton_3.TextSize = 14.000
 TextButton_3.TextWrapped = true
 TextButton_3.MouseButton1Down:connect(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hexx/main/Iv%20Admin/Admin%202.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Coolman19181/Star-Glitcher-v1/refs/heads/main/star%20glitcher.txt"))()
+
 end)
 TextButton_4.Parent = Main
 TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
